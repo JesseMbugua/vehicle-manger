@@ -16,18 +16,17 @@ The project consists of three main files:
 
 ## 🚀 How to Run the Program
 **Compile the Java files**:
-   ```bash
-   javac myvehicle.java vehicle.java app.java
-   Run the App class:  
-   java.app
+**Run java.app**
 
 🖥️ Expected Output
-
+  ```bash
 the Rolls-Royce Phantom car has started
 The Rolls-Royce Phantom car has Starlight Headliner
 the Rolls-Royce Phantom car has stopped
 the cars model is: Rolls-Royce Phantom
 the cars release date is: 2017
+
+---
 
 ## 🧠 Key Concepts Demonstrated
 
