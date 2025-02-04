@@ -15,14 +15,14 @@ The project consists of three main files:
 ---
 
 ## 🚀 How to Run the Program
-
-1. **Compile the Java files**:
+**Compile the Java files**:
    ```bash
    javac myvehicle.java vehicle.java app.java
    Run the App class:  
    java.app
 
 🖥️ Expected Output
+```bash
 the Rolls-Royce Phantom car has started
 The Rolls-Royce Phantom car has Starlight Headliner
 the Rolls-Royce Phantom car has stopped
