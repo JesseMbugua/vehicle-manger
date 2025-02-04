@@ -20,7 +20,7 @@ The project consists of three main files:
    ```bash
    javac myvehicle.java vehicle.java app.java
    Run the App class:  
-   java App
+   java.app
 
 🖥️ Expected Output
 Copy
