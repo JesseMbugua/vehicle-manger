@@ -22,7 +22,7 @@ The project consists of three main files:
    java.app
 
 🖥️ Expected Output
-```bash
+
 the Rolls-Royce Phantom car has started
 The Rolls-Royce Phantom car has Starlight Headliner
 the Rolls-Royce Phantom car has stopped
