@@ -24,6 +24,7 @@ The Rolls-Royce Phantom car has Starlight Headliner
 The Rolls-Royce Phantom car has stopped
 The car's model is: Rolls-Royce Phantom
 The car's release date is: 2017
+```
 
 🧠 Key Concepts Demonstrated
 1. Interface (Vehicle)
